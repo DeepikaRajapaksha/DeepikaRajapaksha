@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Deepika S Rajapaksha</h1>
 <h3 align="center">I am an undergraduate student at Sabaragamuwa University of Sri Lanka, pursuing a degree in Computing and Information Systems. I have a strong passion for coding, web development, and creating innovative solutions to real-world problems.</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=deepikarajapaksha&label=Profile%20views&color=0e75b6&style=flat" alt="deepikarajapaksha" /> </p>
+
 - 🌱 I’m currently learning **Computing and Information System at [Sabaragamuwa University of Sri Lanka](https://www.sab.ac.lk/).**
 
 - 👯 I’m looking to collaborate on **on GitHub.**
