@@ -1,5 +1,5 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Deepika S Rajapaksha</h1>
+<h1 align="center">Hi 👋, I'm Deepika Sewwandi</h1>
 <h3 align="center">Undergraduate | Web Developer | Coding Enthusiast</h3>
 <h3 align="center">I am an undergraduate student at Sabaragamuwa University of Sri Lanka, pursuing a degree in Computing and Information Systems. I have a strong passion for coding, web development, and creating innovative solutions to real-world problems.</h3>
 
